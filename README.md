@@ -1,2 +1,2 @@
-# mulesoft_repository_ch01_spring
+# mulesoft_operator_ch01_spring
 Spring Boot First API
